@@ -10,33 +10,13 @@
 
 ## 🧑‍💻 Về tôi
 
-```c
-/* nguyen_khanh_an.h */
-#ifndef NGUYEN_KHANH_AN_H
-#define NGUYEN_KHANH_AN_H
+🔭 Tôi là **Embedded Software Engineer** với đam mê xây dựng các hệ thống IoT thực tế.
 
-#define NAME        "Nguyen Khanh An"
-#define ROLE        "Embedded Software Engineer"
-#define COMPANY     "FPT Telecom / Viettel / VNPT"
-#define LOCATION    "Viet Nam 🇻🇳"
+🌱 Hiện đang làm việc tại **FPT Telecom / Viettel / VNPT**, tập trung vào firmware và giao tiếp không dây.
 
-typedef enum {
-    LOVE_FIRMWARE,
-    LOVE_IOT,
-    LOVE_RTOS,
-    LOVE_WIRELESS,
-} passion_t;
+⚡ Yêu thích tối ưu hiệu năng hệ thống nhúng, thiết kế RTOS và tích hợp giao thức truyền thông.
 
-void life_goals(void) {
-    while (1) {
-        learn_new_things();
-        build_cool_stuff();
-        optimize_everything();
-    }
-}
-
-#endif /* NGUYEN_KHANH_AN_H */
-```
+📍 **Việt Nam** 🇻🇳
 
 ---
 
@@ -74,7 +54,7 @@ void life_goals(void) {
 
 - ⚙️ Phát triển firmware cho các thiết bị **IoT** trên nền tảng MCU
 - 🧵 Thiết kế hệ thống **RTOS** với multitasking, queue, semaphore, mutex
-- 📡 Tích hợp giao tiếp không dây: **WiFi, Bluetooth, Zigbee** cho các ứng dụng IoT
+- 📡 Tích hợp giao tiếp không dây: **WiFi, Bluetooth, Zigbee** cho ứng dụng IoT
 - 🔗 Làm việc với các giao thức truyền thông **UART, SPI, I2C, RS485**
 - 🐍 Sử dụng **Python & Shell Script** để tự động hóa build, test và CI/CD
 
