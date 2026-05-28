@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 Về tôi
 
-🔭 Tôi là **Embedded Software Engineer** với đam mê xây dựng các hệ thống IoT thực tế.
+🔭 Tôi là **Software Engineer** và đam mê xây dựng các hệ thống IoT/Embedded thực tế.
 
-🌱 Hiện đang làm việc tại **FPT Telecom / Viettel / VNPT**, tập trung vào firmware và giao tiếp không dây.
+🌱 Hiện đang làm việc tại **FPT Telecom**
 
 ⚡ Yêu thích tối ưu hiệu năng hệ thống nhúng, thiết kế RTOS và tích hợp giao thức truyền thông.
 
@@ -35,45 +35,32 @@
 
 ### 🧵 RTOS & Hệ điều hành nhúng
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00878A?style=for-the-badge&logo=freertos&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr_RTOS-6517A6?style=for-the-badge&logo=zephyrproject&logoColor=white)
 
 ### 📶 Giao tiếp không dây
 ![WiFi](https://img.shields.io/badge/WiFi-1AABDE?style=for-the-badge&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ### 🔗 Giao thức có dây
 ![UART](https://img.shields.io/badge/UART-FF8C00?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-6A0DAD?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-2E8B57?style=for-the-badge&logoColor=white)
-![RS485](https://img.shields.io/badge/RS485-8B0000?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 💼 Kinh nghiệm
 
-- ⚙️ Phát triển firmware cho các thiết bị **IoT** trên nền tảng MCU
+<!-- - ⚙️ Phát triển firmware cho các thiết bị **IoT** trên nền tảng MCU -->
 - 🧵 Thiết kế hệ thống **RTOS** với multitasking, queue, semaphore, mutex
-- 📡 Tích hợp giao tiếp không dây: **WiFi, Bluetooth, Zigbee** cho ứng dụng IoT
+- 📡 Tích hợp giao tiếp không dây: **WiFi, Bluetooth** cho ứng dụng IoT
 - 🔗 Làm việc với các giao thức truyền thông **UART, SPI, I2C, RS485**
-- 🐍 Sử dụng **Python & Shell Script** để tự động hóa build, test và CI/CD
+- 🐍 Sử dụng **Python & Shell Script** để tự động hóa test Modem Wifi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenKhanhAn&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenKhanhAn&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenKhanhAn&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=annguyenkhanh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=annguyenkhanh&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=annguyenkhanh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
